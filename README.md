@@ -1,2 +1,2 @@
 # sunrise_set
-Calculate and plot winter sunrise and set times
+Calculate and plot sunrise and set times about the winter and summer solstices.
